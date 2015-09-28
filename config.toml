@@ -1,0 +1,8 @@
+baseurl = "http://shadows.ajbourg.com/"
+languageCode = "en-us"
+title = "Shadows"
+author = "AJ Bourg"
+
+[params]
+  logo = "http://www.gravatar.com/avatar/e3d9d76d63d51e5dfa277e78e88f7109?s=160"
+  copyright = "AJ Bourg"
