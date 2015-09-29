@@ -10,9 +10,7 @@ deploy:
   secret_access_key: $AWS_SECRET_KEY
   bucket: shadows.ajbourg.com
   region: us-west-2
-  endpoint: shadows.ajbourg.com.s3-website-us-west-2.amazonaws.com
   local-dir: public
   skip_cleanup: true
   on:
     repo: icebourg/shadows.ajbourg.com
-
